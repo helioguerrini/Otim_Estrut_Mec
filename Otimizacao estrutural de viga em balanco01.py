@@ -2,7 +2,7 @@
 """
 Created on Thu Sep  1 21:45:42 2022
 
-@author: Turma Eng. Mecânica 10 semestre TMN1
+@author: Me. Hélio Guerrini Filho
 """
 
 #Importar os módulos
